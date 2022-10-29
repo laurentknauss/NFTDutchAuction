@@ -1,0 +1,26 @@
+{
+  "name": "Hardhat-NFTDutchAuction-Project",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Basic NFT Auction implementing dutch auction principle",
+  "scripts": {
+    "test": "yarn hardhat test",
+    "test-staging": "yarn hardaht test --network goerli",
+    "coverage": "yarn hardhat coverage"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "hardhat": "^2.12.1",
+    "hardhat-contract-sizer": "^2.6.1",
+    "hardhat-deploy": "^0.11.19",
+    "hardhat-gas-reporter": "^1.0.9",
+    "solidity-coverage": "^0.8.2"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}
