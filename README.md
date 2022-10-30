@@ -16,12 +16,16 @@
 <br>
 
 
-## Compiling the contract<br>
+## Compiling the contract
 <br>
 
-yarn hardhat compile 
+yarn hardhat compile<br>
 
 ## Testing the contract logic 
+<br>
+yarn hardhat test-unit<br>
+yarn hardhat test-staging<br>
 
-yarn hardhat test-unit
-yarn hardhat test-staging
+## Deploying the contract on goerli testnet network<br>
+
+yarn hardhat  run scripts/deploy.js --network goerli<br>
