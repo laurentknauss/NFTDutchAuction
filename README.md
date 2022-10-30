@@ -20,11 +20,13 @@
 
 
 yarn hardhat compile<br>
+<br>
 
 ##  ☑️Testing the contract logic 
-<br>
+
 yarn hardhat test-unit<br>
 yarn hardhat test-staging<br>
+<br>
 
 ## ☑️ Deploying the contract on Goerli Testnet network<br>
 
