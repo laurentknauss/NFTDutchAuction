@@ -17,7 +17,7 @@
 
 
 ## Compiling the contract
-<br>
+
 
 yarn hardhat compile<br>
 
@@ -26,6 +26,6 @@ yarn hardhat compile<br>
 yarn hardhat test-unit<br>
 yarn hardhat test-staging<br>
 
-## Deploying the contract on goerli testnet network<br>
+## Deploying the contract on Goerli Testnet network<br>
 
 yarn hardhat  run scripts/deploy.js --network goerli<br>
