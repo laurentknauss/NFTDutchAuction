@@ -1,6 +1,6 @@
 
 
-## **_Goal of The Repository_**   🚀<br>
+##        🚀 **_Goal of The Repository_**   🚀<br>
 
 **1. Seller of NFT deploys this contract that sets a starting price for the auction.**<br>
 **2. Auction last for 7 days or any duration you wish.**<br>
