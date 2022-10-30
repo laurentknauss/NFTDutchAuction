@@ -1,5 +1,9 @@
 
 
+
+
+
+
 ##        🚀 **_Goal of The Repository_**   🚀<br>
 
 **1. Seller of the NFT deploys this contract that sets a starting price for the auction.**<br>
