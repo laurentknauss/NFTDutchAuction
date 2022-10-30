@@ -13,3 +13,15 @@
 **3. Price of the NFT decreases as the  core principle of a "dutch auction".**<br>
 **4. Participants can buy by depositiong funds greater the the current price compted by the smart contract.**<br>
 **5. The dutch auction ends when a highest bidder buys the NFT.**<br>
+<br>
+
+
+## Compiling the contract<br>
+<br>
+
+yarn hardhat compile 
+
+## Testing the contract logic 
+
+yarn hardhat test-unit
+yarn hardhat test-staging
